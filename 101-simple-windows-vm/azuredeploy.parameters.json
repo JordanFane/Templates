@@ -3,17 +3,23 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "jfstorage1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Jasper88"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "jf1829"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
+      }
   }
 }
 
